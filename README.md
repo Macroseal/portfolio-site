@@ -1,4 +1,3 @@
 # portfolio-site
-Website used for my portfolio
-
-I am adding text to the readme.
+Practice website to be used as my portfolio portal.
+Uses boostrap.
