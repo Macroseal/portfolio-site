@@ -1,0 +1,27 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h1,
+p,
+li {
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    border: 5px solid black;
+    padding: 30px 30px 30px 30px;
+    background-color: cornsilk;
+    margin: 10px 50px 50px 50px;
+}
+
+html {
+    background-color: darkseagreen;
+}
